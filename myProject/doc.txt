@@ -1,0 +1,91 @@
+The Process behind building the website
+
+Define: 
+Define who is the website for? Is it for your self? For the client of your agency or your freelancing business?
+Define what the website is for? In other words, define business and user goals of your website project(see lecture on UX)
+Plan
+
+Example:
+Business goal example: Selling preminum dog food
+User goal example: Finding high quality dog food for good price
+
+Define the target audience 
+Be Specific if possible and if it makes sense for your website (this come from your project)
+
+Exmaple:
+Woman 20 to 40 year old, living in Europe, earning over 2000 Euro per month, with a passion for dogs
+
+Plan
+Plan the project
+plan and gather website content: copy(text), images, videos etc
+Content is usually provided by the client, but you also can help them produce and find some content (simply Finding
+free images is easiest, but if they want copy, charge them extra)
+
+For bigger website, plan out the sidemap, what pages the site needs, and how they are related to one another(content hierarchy)
+Based on the content plan what sections each page needs in order to convey the contents message and in which order
+
+Define the website personality (see the web Design section)
+
+Sketch
+Sketch Layout and Component ideas
+Think about the componets needed, how you can use them in layout patterns, (Get inspiration in web design section)
+
+Its the content which should guide the website not the design
+
+Get Ideas out of your head: sketch them with pen and paper or with some design software(eg Figma)
+The Sketched should be very low fedility with very low details
+
+This is an iterative process, experiment with different component solution and layouts, until you arrive at the first good
+solution
+
+You dont need to sketch everything, and dont make it perfect, At some point you are ready to jump into HTML and css
+
+
+Design and building
+Use Decisions, content and sketches from step 1, 2 and 3 to design and build the website with HTML and css 
+(desigining in the browser)
+
+You alrwady have the layout and component that you selected in Step 3. In this step, you need to desgin the actual
+visual styles
+
+Use the clients branding(it if exists already) for desgin Decisions whenever possible: colors, typography icons etc
+
+Test and Optimize
+Make sure website works well in all major browser, (chrome, firefox, edge, even old IE)
+Test the website on actual Mobile Devices, not just on Developer tools
+Optimize all the images, in terms of dimensions and file size(see lection on images)
+  - Give the right dimensions in pixels
+  - compress them in order to not forse our user to download huge images, thats a bad user experience
+Fix simple accessibilty issues(eg color contrast issues)
+Run the lighthouse performance test in chrome devtools and try to fix reported issues 
+THink about Search engine Optimization
+
+Launch
+Once all the work is done, everything is perfect, and you got approval from client or yourself, its time
+to share your master peice with the world
+
+Upload your website files to a hosting platform. There are countless platform, we will use one witht he free plan(Netlify)
+
+Chosse and buy a great domain name, one that is representing the brand well and is memorable and easy to write
+
+Maintain and Update
+Launching the website is not the end 
+keep the website content updated over time. If you are working with the client, you can create a monthy maintainance
+contract(recurring revenue)
+
+install some kind of analytic software(Google analytic or fathom ) to get statistics about the website users. This may
+inform future changes in site structure and content
+
+A blog that is updated regulary is a good way to keep users coming back, and is also good for seo 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Here we start:::
+Omnifood: AI to Develope custom healthy meal plans
+
+Your first job!
+You are hired to desgin and build a website for a fictional company called Omnifood
+Omni food is a startup that uses AI to create and deliver custom healthy mean plans
+THey provided us with all content for the website (content.md)
+
+

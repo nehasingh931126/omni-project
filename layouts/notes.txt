@@ -1,0 +1,9 @@
+When do we use the flex-basis?
+To add the width for the flex itme instead of using the width property
+
+flex-basis is not rigid of the length of the flex-item is more than 
+specified value then it will adjust as per the flex item length and will not keep the flex-basis value striclity 
+
+
+flex-shrink: 0 it will not shrink 
+But this property is not always advisable, while in some situation its necessary 
